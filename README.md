@@ -29,6 +29,6 @@ I love using my superpower (building software) in any way that adds value.
 
 + From a tender age, I have been fascinated by how software affects our daily lives. Since then, my mission has been to build and contribute to software and systems that add value to people's everyday lives.
 
-+ Understanding I still have a long journey ahead and an infinite list of things to learn in this beautiful field of software engineering. I will prefer an environment that encourages innovation and failure.
++ Understanding I still have a long journey ahead and an infinite list of things to learn in this beautiful field of software engineering. I will love to network with teams and individuals who promote innovation and failure.
 
 + As much as I love learning, I also enjoy teaching and demystifying concepts. I have held teaching roles on several occasions
