@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 I love using my superpower (building software) in any way that adds value.
 
 + Recent software engineering graduate who has tried quite a number of disciplines in the software field including;
- Front-end - Vue (Nuxt), React (Next).
- Mobile - React Native, Flutter.
- Back-end - Python, Express, Nestjs.
- DevOps - Docker, Kubernetes, AWS, Ansible, Github actions.
- Research - Wrote scientific research papers on “Digital Image Forgery” and “Minimising Energy Consumption in Computer Devices”. Implemented “A static type checker for Jolie Programming Language”.
- Design - Figma.
+ - Front-end - Vue (Nuxt), React (Next).
+ - Mobile - React Native, Flutter.
+ - Back-end - Python, Express, Nestjs.
+ - DevOps - Docker, Kubernetes, AWS, Ansible, Github actions.
+ - Research - Wrote scientific research papers on “Digital Image Forgery” and “Minimising Energy Consumption in Computer Devices”. Implemented “A static type checker for Jolie Programming Language”.
+ - Design - Figma.
 
 + When not occupied with university work, I work on small projects. My current project is moolax.tech a payment system powered by blockchain and my last project was the unstoppable universe. It tries to address key issues faced by organizations and institutions (e.g finding the most believable employees/instructors to assign to a given task/course).
 
